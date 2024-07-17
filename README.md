@@ -4,8 +4,8 @@ Este proyecto implementa un las nuevas clases de CSS moderno para las animacione
 
 ## Características
 - Mostrar las nuevas clases de CSS
-- usan animaciones 
-- Dar mejores ya tractivos estilos con CSS sin la necesidad de ocupar JS.
+- usar animaciones 
+- Dar mejores atractivos estilos con CSS sin la necesidad de ocupar JS.
 ## Instalación
 
 1. Clona este repositorio:
